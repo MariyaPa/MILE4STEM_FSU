@@ -68,7 +68,7 @@ default
         } 
         else if(message == "-anc_groupup")
         {
-            llSay(0, "The NPCs have to break on two groups and compete in giving a good metaphor for **your choice**."); 
+            llSay(0, "The NPCs have to break on two groups and compete in giving a good metaphor for **your choice**, **whatever you will be covering in the lecture**."); 
             llSay(0, "Assign neighboring NPCs to the same group."); 
             llSay(0, "NPCs can use physical objects at the side table as needed.");
         }
